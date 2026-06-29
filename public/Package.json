@@ -1,0 +1,6 @@
+{
+  "name": "akadimeya-ekraa",
+  "version": "1.0.0",
+  "description": "أكاديمية اقرأ للاستشارات والتدريب",
+  "main": "api/server.js"
+}
